@@ -11,7 +11,7 @@ To achieve a competitive mIoU (>0.30), the following strategies were implemented
 * Post-Processing: Applied Test-Time Augmentation (TTA) with horizontal/vertical flips and morphological filtering to remove noise and disconnected components.
 
 ## 📁 Project Structure
-├── models/             # Directory for model checkpoints (.pth)
+├── best_model.pth             # Directory for model checkpoints (.pth)
 ├── .ipynb file         # Complete source code
 ├── LICENSE             # ANRF Open License
 └── README.md           # Project Documentation
