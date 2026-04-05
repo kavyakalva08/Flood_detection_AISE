@@ -12,6 +12,6 @@ To achieve a competitive mIoU (>0.30), the following strategies were implemented
 
 ## 📁 Project Structure
 ├── models/             # Directory for model checkpoints (.pth)
-├── src/                # Source code (Dataset, Model, Training)
+├── .ipynb file         # Complete source code
 ├── LICENSE             # ANRF Open License
 └── README.md           # Project Documentation
